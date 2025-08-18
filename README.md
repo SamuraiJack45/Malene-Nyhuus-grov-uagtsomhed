@@ -5,3 +5,18 @@ Dette arkiv vil indeholde den samlede, u-redigerede dokumentation i min klagesag
 Under udarbejdelse. Afventer endelig afgørelse fra Styrelsen for Patientklager.
 
 Uanset udfaldet vil det fulde anklageskrift og samtlige beviser blive offentliggjort her.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="qiyxlo7Gr4o-7rG61TmIzyG2bGDAxL63Z6aU0s4mdos" />
