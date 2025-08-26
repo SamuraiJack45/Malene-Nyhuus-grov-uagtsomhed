@@ -67,7 +67,7 @@ Tilsidesatte system-dokumenteret TRD-diagnose via tilskudsklausul. Ignorerede ak
 15. Brud på intern informationsflow
 Undlod at verificere kritiske oplysninger i Fælles Medicinkort. Handlede trods klinikas forudgående adgang til patientdata.
 
-16.Professionel hykleri
+16. Professionel hykleri
 Handlede i modstrid med egne offentlige udtalelser om systemkritik. Blev selv den system håndhæver hun havde kritiseret.
 
 17. Timing i forhold til lovændring
