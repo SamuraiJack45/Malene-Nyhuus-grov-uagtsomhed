@@ -555,9 +555,12 @@ At bruge 330 millioner kroner om året på at gøre bøger billigere for at bek�
 
 Her er statens prioriteringer, sort på hvidt:
 
-Emne	Statens Investering (DKK)
+Statens Investering (DKK)
+
 Ukraine & Gaza	~ 75,6 milliarder
+
 Billigere Bøger	330 millioner (årligt)
+
 Danske ofre for fysisk og psykisk vold	0 (efter 12 måneder)
 
 Forsvarere af systemet vil pege på den pressede hverdag i almen praksis – den 15-minutters konsultation – som en undskyldning for, at komplekse sager bliver afvist. Men dette er en intellektuelt uærlig undskyldning. Den simple, etiske og procedurelt korrekte handling for en læge, der står over for et komplekst problem i en tidsbegrænset konsultation, er ikke en afvisning. Det er en henvisning.
