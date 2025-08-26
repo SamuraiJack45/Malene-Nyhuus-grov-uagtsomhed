@@ -395,6 +395,7 @@ Brug denne manual. Vær systematisk. Vær klinisk. Vær nådesløs.
 
 Stop med at være en patient. Bliv anklageren.
 
+
 STPK anklagen:
 
 Under en konsultation den 27. juni 2025 anmodede jeg læge Malene Nyhuus om en henvisning til en psykolog. Jeg forklarede, at formålet var at bearbejde en opvækst med følelsesmæssigt misbrug. Jeg informerede hende desuden om, at min journal allerede indeholder en tidligere anbefaling fra en speciallæge i psykiatri om, at jeg netop skulle modtage psykologbehandling.
@@ -418,8 +419,6 @@ Bevidst ignorering af yderligere dokumentation: Hendes afvisning af at indhente 
 Samlet set klager jeg over en fagligt ubegrundet afvisning, der aktivt blokerer min adgang til nødvendig behandling, og som er baseret på lægens faglige uvidenhed og vilje til at ignorere både eksisterende og tilgængelig dokumentation.
 
 Jeg fik mistanke om en fejl umiddelbart under selve konsultationen, da lægen afviste min anmodning om en henvisning på et faktuelt forkert grundlag og nægtede at indhente dokumentation fra min specialist og psykiater.
-
-Supplerende Oplysninger til Sag 2025-10548
 
 I henhold til muligheden for at indsende supplerende oplysninger i min sag med sagsnummer 2025-10548 fremsender jeg hermed et uddybende partsindlæg.
 
@@ -459,13 +458,15 @@ Malene Nyhuus fulgte ikke de officielle henvisningsregler. Da jeg under konsulta
 
 Vedr. Kategori 1 ("Voldsofre"): Min henvendelse til Malene Nyhuus var direkte foranlediget af en ny og afgørende erkendelse om min opvækst, som fandt sted få dage før konsultationen. En specifik hændelse fungerede som den 'sidste dråbe', der gjorde det muligt for mig at se det livslange mønster af følelsesmæssigt misbrug klart for første gang. Selve min tilstedeværelse på hendes kontor var derfor et signal om, at noget havde ændret sig akut. En kompetent læge ville have udvist klinisk nysgerrighed og stillet det mest basale diagnostiske spørgsmål: "Hvorfor netop nu?" Hendes undladelse af at gøre dette var et svigt i sig selv. I stedet for at undersøge sagen, afviste hun min anmodning med en grov fejlfortolkning af henvisningsreglerne. I henhold til gældende praksis for senfølger af traumer, er det netop erkendelsestidspunktet – ikke traumets varighed – der starter tidsfristen. Ved at ignorere dette og anvende reglen for akutte hændelser på et tilfælde af kronisk traume, demonstrerede hun en fundamental mangel på viden og omhu. Min situation opfyldte kriteriet til punkt og prikke.
 
+Under konsultationen fremlade Malene Nyhuus med stor autoritet den faktuelt forkerte påstand, at min livslange traumehistorik gjorde mig uegnet til en henvisning under 12-måneders reglen. I min sårbare tilstand på det tidspunkt, og med den naturlige tillid man har til en læges ekspertise, accepterede jeg hendes udsagn.
+
 Vedr. Kategori 10 ("let til moderat depression"): Dernæst pegede hun på denne kategori og anvendte det kyniske argument, at min depression var for "svær" til at kvalificere mig. Dette rejser et ubesvareligt spørgsmål: Hvordan kunne hun vurdere min depressionsgrad, når hun netop undlod at foretage en klinisk vurdering?
 
 Den mest afslørende del af Malene Nyhuus' argumentation var dens fundamentale selvmodsigelse. På den ene side brugte hun min MAOI-historik som grundlag for at hævde, at min depression var for 'svær' til at passe ind i henvisningskriterierne. På den anden side, da jeg selv fremhævede MAOI-behandlingen som bevis på sværhedsgraden, forsøgte hun at annullere selvsamme bevis med den faktuelt forkerte påstand, at 'man kan godt være på MAOI, selvom man ikke er deprimeret'.
 
-Disse to argumenter kan ikke eksistere samtidigt. Enten er min MAOI-historik et bevis på en svær depression, eller også er den ikke. Malene Nyhuus' vilje til at indtage begge positioner, alt efter hvad der bedst tjente hendes formål om at afvise mig, beviser, at dette ikke var en klinisk vurdering. Det var en kaskade af skiftende og selvmodsigende undskyldninger, der udelukkende havde til formål at blokere min adgang til behandling.
+Disse to argumenter kan ikke eksistere samtidigt. Enten er min MAOI-historik et bevis på en svær depression, eller også er den ikke. Malene Nyhuus' vilje til at indtage begge positioner, alt efter hvad der bedst tjente hendes formål om at afvise mig, beviser, at dette ikke var en klinisk vurdering. Det var en kaskade af skiftende og selvmodsigende undskyldninger, der udelukkende havde til formål at blokere min adgang til behandling
 
-Hendes forsøg på en løsning var en kaskade af ansvarsfralæggelse, der startede med rådet om, at jeg skulle 'gå tilbage til en psykiater'. Dette råd var særligt groft, fordi det direkte ignorerede den kerneinformation, jeg netop havde givet hende. Jeg havde eksplicit forklaret, at hele grundlaget for min anmodning var, at jeg allerede havde afsluttet den højest mulige psykiatriske, farmakologiske behandling (MAOI for TRD), og at mit ønske om en psykolog var det næste logiske skridt for at bearbejde den underliggende årsag. Hendes forslag var derfor ikke bare uhjælpsomt; det var et uigendriveligt bevis på, at hun enten ikke havde lyttet til, eller ikke havde forstået, selve præmissen for min henvendelse.
+Hendes forsøg på en løsning var en kaskade af ansvarsfralæggelse, der startede med rådet om, at jeg skulle 'gå tilbage til en psykiater'. Dette råd var særligt groft, fordi det direkte ignorerede den kerneinformation, jeg netop havde givet hende. Jeg havde eksplicit forklaret, at hele grundlaget for min anmodning var, at jeg allerede havde afsluttet den højest mulige psykiatriske, farmakologiske behandling (MAOI for TRD), og at mit ønske om en psykolog var det næste logiske skridt for at bearbejde den underliggende årsag. Hendes forslag var derfor ikke bare uhjælpsomt; det var et uigendriveligt bevis på, at hun enten ikke havde lyttet til, eller ikke havde forstået, selve præmissen for min henvendelse. Det var et ulogisk og cirkulært forsøg på at fralægge sig ansvaret. Mit ønske om en psykolog skyldtes en ny indsigt om traumer, hvilket netop er psykologens kernekompetence. Hendes forslag var derfor et ulogisk og cirkulært forsøg på at fralægge sig ansvaret.
 
 Den mest afslørende del af hendes fejlfortolkning var hendes egen vilkårlige og inkonsekvente tankegang. For at blotlægge den bristede logik i hendes afvisning, præsenterede jeg hende for et direkte parallels-scenarie: Hvad ville hun gøre, hvis en patient kom ind og fortalte, at de netop for nylig havde erkendt, at de var blevet seksuelt misbrugt som barn?
 
@@ -473,21 +474,29 @@ Hendes svar var øjeblikkeligt og uden tøven: Denne patient ville selvfølgelig
 
 Hendes svar er det ultimative bevis på grov uagtsomhed. Ved at sige 'ja' til den ene og 'nej' til mig, skabte hun et ulogisk og dybt krænkende hierarki af traumer. Begge scenarier indeholder præcis de samme elementer: 1) Et livslangt traume og 2) En ny, kriseudløsende erkendelse. Den eneste forskel er typen af misbrug.
 
-Dette beviser, at Malene Nyhuus ikke fulgte et konsekvent princip. I stedet brugte hun selektivt reglerne som et våben til at ekskludere mig, mens hun anerkendte princippet for en anden, hypotetisk patient.
+Dette beviser, at Malene Nyhuus ikke fulgte et konsekvent princip (at 'erkendelse er den udløsende hændelse'). I stedet brugte hun selektivt reglerne som et våben til at ekskludere mig, mens hun anerkendte princippet for en anden, hypotetisk patient. Dette er ikke en læge, der anvender regler; det er en læge, der leder efter en undskyldning for at sige nej.
 
-Da dette blev påpeget, var hendes næste forslag, at jeg kunne "betale for en psykolog selv." Dette er en dybt uprofessionel og hånlig kommentar til en patient på offentlig forsørgelse, og det udgør en implicit indrømmelse af, at psykologbehandling rent faktisk var den korrekte handling. Hendes endelige råd om at "spørge min sagsbehandler" var den ultimative fralæggelse af hendes lægefaglige ansvar.
+Da dette blev påpeget, var hendes næste forslag, at jeg kunne "betale for en psykolog selv." Dette er en dybt uprofessionel og hånlig kommentar til en patient på offentlig forsørgelse, og det udgør en implicit indrømmelse af, at psykologbehandling rent faktisk var den korrekte handling. Hendes endelige råd om at "spørge min sagsbehandler" var den ultimative fralæggelse af hendes lægefaglige ansvar og en fuldstændig efterladelse af mig uden en gyldig behandlingsplan.
 
 4. Farlig Farmakologisk Uvidenhed
 
-Da jeg fremhævede min MAOI-historik, afviste Malene Nyhuus dette med den faktuelt forkerte og farlige påstand, at "man kan godt være på MAOI, selvom man ikke er deprimeret". Da jeg informerede hende om, at den fulde dokumentation for min behandling fandtes hos min psykiater, Dr. [REDACTED], afviste hun at gøre forsøg på at indhente den. I stedet pålagde hun mig selv ansvaret for at rekvirere mine egne journaloplysninger.
+Da jeg fremhævede min MAOI-historik, afviste Malene Nyhuus dette med den faktuelt forkerte og farlige påstand, at "man kan godt være på MAOI, selvom man ikke er deprimeret". Da jeg informerede hende om, at den fulde dokumentation for min behandling fandtes hos min psykiater, Dr. [REDACTED], afviste hun at gøre forsøg på at indhente den. I stedet pålagde hun mig selv ansvaret for at rekvirere mine egne journaloplysninger – en klar fralæggelse af hendes lægefaglige pligt til at indhente nødvendig information.
 
-Som jeg allerede har dokumenteret for styrelsen med det fremsendte uddrag fra medicin.dk, er denne påstand beviseligt usand inden for dansk lægepraksis. Der er kun ét MAOI-præparat (Marplan) tilgængeligt i Danmark, og det har kun én eneste godkendt indikation: 'Depressive lidelser, der ikke har responderet på anden antidepressiv behandling.' Hendes udtalelse var derfor en ren fabrikation.
+Som jeg allerede har dokumenteret for styrelsen med det fremsendte uddrag fra medicin.dk, er denne påstand beviseligt usand inden for dansk lægepraksis.
 
-Ydermere fastslår de samme officielle retningslinjer, at 'Behandlingen bør varetages af psykiatere med stort kendskab til anvendelse af stoffet.' Dette beviser, at hun ikke blot var uvidende om lægemidlets formål, men også om sin egen rolle.
+Det fremsendte dokument viser, at der kun er ét MAOI-præparat (Marplan) tilgængeligt i Danmark, og det har kun én eneste godkendt indikation: 'Depressive lidelser, der ikke har responderet på anden antidepressiv behandling.' Hendes udtalelse var derfor en ren fabrikation.
 
-Denne udtalelse er ikke blot en mindre fejl; den afslører en fundamental og faretruende uvidenhed om et højrisiko-præparat. At være på et MAOI-præparat er et objektivt og uigendriveligt bevis på en ekstremt alvorlig og behandlingsresistent sygdomshistorik. Alvoren af denne behandling understreges af, at min psykiater rutinemæssigt overvågede mit blod for tegn på organskade. Faktisk viste en blodprøve under min MAOI-behandling et forhøjet niveau af Laktatdehydrogenase (LDH) på 230 U/L (normalområde 105-205), et objektivt tegn på celleskade. At min speciallæge [REDACTED], var bevidst om dette fund og alligevel valgte at fortsætte behandlingen, er ikke en svaghed i min klage – det er det ultimative bevis på forskellen mellem kompetent specialistpleje og Malene Nyhuus' uagtsomhed. [REDACTED] foretog en professionel risiko/fordel-vurdering.
+Ydermere fastslår de samme officielle retningslinjer, at 'Behandlingen bør varetages af psykiatere med stort kendskab til anvendelse af stoffet.' Dette beviser, at hun ikke blot var uvidende om lægemidlets formål, men også om sin egen rolle som praktiserende læge, der har pligt til at henvise til og respektere specialistvurderinger i en så alvorlig sag
 
-Malene Nyhuus afvisning af at sætte sig ind i denne historik er derfor ikke blot en afvisning af et enkeltstående faktum, men en afvisning af en hel, kompleks sygdomsrealitet.
+Denne udtalelse er ikke blot en mindre fejl; den afslører en fundamental og faretruende uvidenhed om et højrisiko-præparat. Hendes forsøg på at trivialisere MAOI-behandling står i direkte modstrid med al kendt klinisk praksis og videnskabelig evidens. For at sætte hendes uvidenhed i perspektiv, er MAOI-præparater så sjældne og forbeholdt så alvorlige tilfælde, at en nylig europæisk opgørelse (Wiley, 2024) viste, at kun omkring 500 patienter i en befolkning på 16 millioner var i behandling – en rate på blot 0.003%. At være på et MAOI-præparat er derfor et objektivt og uigendriveligt bevis på en ekstremt alvorlig og behandlingsresistent sygdomshistorik.
+
+Alvoren af denne behandling understreges yderligere af, at min psykiater anså risikoen for organskade for at være så reel, at han rutinemæssigt overvågede mit blod for tegn. Faktisk viste en blodprøve under min MAOI-behandling et forhøjet niveau af Laktatdehydrogenase (LDH) på 230 U/L (normalområde 105-205), et objektivt tegn på celleskade. At min speciallæge [REDACTED], var bevidst om dette fund og alligevel valgte at fortsætte behandlingen, er ikke en svaghed i min klage – det er det ultimative bevis på forskellen mellem kompetent specialistpleje og Malene Nyhuus' uagtsomhed. [REDACTED] foretog en professionel risiko/fordel-vurdering: Han anerkendte, at den livsændrende virkning af min remission fra anhedoni langt oversteg den milde, overvågede risiko, som det let forhøjede LDH-tal repræsenterede. Han håndterede en reel risiko for at opnå en vital gevinst.
+
+Denne komplekse vurdering fandt sted i en kontekst, hvor andre blodprøver også viste tegn på systemisk påvirkning, herunder forhøjede trombocytter (blodplader). Dette beviser, at [REDACTED] aktivt håndterede et multifaktorielt og bekymrende klinisk billede. Malene Nyhuus' afvisning af at sætte sig ind i denne historik er derfor ikke blot en afvisning af et enkeltstående faktum, men en afvisning af en hel, kompleks sygdomsrealitet
+
+Dette står i skærende kontrast til Malene Nyhuus. Hun var ikke blot uvidende om denne form for klinisk ræsonnement, men afviste selve grundlaget for det. Hvor min specialist satte en høj faglig standard for håndtering af min komplekse sygdom, demonstrerede Malene Nyhuus en komplet mangel på den nødvendige viden og omhu ved at blokere en risikofri behandling uden nogen form for vurdering
+
+En alment praktiserende læge er ikke forpligtet til at være ekspert i MAOI-præparater, men hun er forpligtet til at anerkende dem som et højrisiko-præparat, der signalerer en yderst alvorlig og kompleks patienthistorik. At udvise en så fundamental misforståelse og tale nonchalant om et sådant medikament udgør en direkte risiko for patientsikkerheden.
 
 5. En Grundlæggende Modstrid med Egne Erklærede Principper
 
@@ -495,9 +504,33 @@ Endelig må styrelsen vurdere Malene Nyhuus' handlinger i lyset af hendes egne o
 
 Konklusion: Direkte og Målbar Skade
 
-Mine supplerende indsendelser fortsætter nedenfor...
+Lad os spørge os selv dette spørgsmål: fulgte Malene Nyhuus "standard praksis"? Hendes handlinger var ikke blot uagtsomme; de var profoundt retraumatiserende. Jeg opsøgte hende for at få hjælp til at hele et livslangt følelsesmæssigt traume, og i stedet genopførte hun den præcis samme dynamik af invalidering og afvisning
 
-Supplerende Oplysninger #2
+Dette har forårsaget direkte og målbar skade. Før konsultationen prøvede jeg så godt jeg kunne at arbejde på et komplekst softwareudviklingsprojekt. Den psykiske belastning fra hendes afvisning har været så alvorlig, at jeg nu siden samtalen har været ude af stand til at fortsætte dette arbejde, hvilket har sat min rehabilitering markant tilbage.
+
+Hendes uagtsomhed har skabt en direkte og farlig behandlingsfælde. Ved bevidst at blokere den sikre, terapeutiske vej til helbredelse (psykoterapi for traumer), har hun aktivt afskåret mig fra at behandle årsagen til min sygdom. Konsekvensen er, at jeg nu er efterladt med kun én velafprøvet mulighed for at håndtere mine invaliderende symptomer: en tilbagevenden til den risikable, farmakologiske vej med MAOI-præparater. For mig er denne risiko ikke teoretisk; det er en dokumenteret kendsgerning, at denne behandling forårsagede målbar celleskade i min krop, som det fremgår af mine blodprøver
+
+Dette er ikke længere et valg. Det er en uundgåelig konsekvens, hun har påtvunget mig. At fjerne den sikre behandlingsmulighed og derved tvinge en patient i retning af en beviseligt farlig behandling, er ikke blot uagtsomhed. Det er et fundamentalt svigt af lægeløftets mest centrale princip om "først, gør ingen skade" i sin reneste og mest skadelige form.
+
+For at illustrere den reelle fare ved den behandlingsvej, Malene Nyhuus nu har tvunget mig i retning af, vil jeg fremhæve en konkret detalje fra mit forløb hos speciallæge [REDACTED]. MAOI-præparatet Marplan var ganske vist effektivt mod min anhedoni, men min psykiater understregede gentagne gange de alvorlige og potentielt livstruende risici, der er forbundet med behandlingen.
+
+Som en direkte konsekvens blev jeg udstyret med en officiel "Marplan Patient-vejledning", som jeg blev pålagt at bære på mig til enhver tid. Denne vejledning, som jeg stadig har i min pung, indeholder direkte og livsvigtige instrukser til andet sundhedspersonale. Den advarer specifikt læger og tandlæger med teksten: "if administering a local anaesthetic use agents without a vasoconstrictor" og henviser dem til produktresume.dk for at undgå fatale interaktioner.
+
+Malene Nyhuus' afvisning af en psykologhenvisning er derfor et uforståeligt og uansvarligt valg. Hun har aktivt blokeret for en sikker og relevant behandling (psykoterapi for traumer). Derved har hun efterladt mig med en fremtid, hvor min eneste velafprøvede mulighed er en tilbagevenden til en effektiv, men beviseligt farlig behandling – en behandling, der er så risikabel, at den kræver, at jeg bærer specifikke kliniske instruktioner på mig for at forhindre, at andre læger ved en fejl slår mig ihjel.
+
+At fjerne den sikre mulighed og kun efterlade den risikable er et svigt af princippet om "først, gør ingen skade" i sin reneste og mest dokumenterbare form.
+
+Endelig står Malene Nyhuus' handling i skærende kontrast til den tillid, min psykiater viste mig. Beslutningen om at ordinere et MAOI-præparat var i sig selv en anerkendelse af min evne til at håndtere et komplekst og farligt behandlingsregime.
+
+Det er et paradoks, at en speciallæge vurderede mig som kompetent nok til at blive betroet en potentielt livsfarlig medicin, mens Malene Nyhuus ikke engang havde tillid til min evne til at identificere mit eget behov for en risikofri samtalebehandling. Hendes forsøg på at male mig som en upålidelig fortæller er i direkte modstrid med den dokumenterede vurdering fra en ekspert, der stolede på mig med mit eget liv
+
+Malene Nyhuus handling af min sag er ikke blot en række isolerede fejl. Det er et udtryk for en faglig tilgang, der er i fundamental modstrid med anerkendt praksis og den retning, det danske sundhedsvæsen bevæger sig i. Som det fremgår af den officielle nyhed fra Region Sjælland, "Vederlagsfri psykologbehandling til ofre for vold, voldtægt og røveri fra 1. juli 2025" (se Bilag 5), fandt hendes afvisning sted blot fire dage før en længe planlagt lovændring, der netop skulle fjerne patientens egenbetaling og yderligere lette adgangen til psykologhjælp for voldsofre som en del af 10-årsplanen for psykiatrien
+
+Hendes handling var derfor ikke blot et brud på de gældende regler; den var en handling i direkte opposition til den etablerede faglige og politiske konsensus om, at netop denne patientgruppe kræver øget støtte og færre forhindringer. At en læge, på tærsklen til en så vigtig patientrettighedsforbedring, aktivt blokerer for den selvsamme hjælp, er et udtryk for en grov og uforståelig uagtsomhed. Det er et fundamentalt svigt af lægeløftets mest centrale princip om "først, gør ingen skade" i sin reneste og mest skadelige form.
+
+Afslutningsvis beder jeg styrelsen om at anerkende den indsats, der ligger bag denne sag. En patient med min historik, præget af en fundamental mistillid til autoriteter, påtager sig ikke den enorme psykiske belastning, det er at formulere en klage af dette omfang, for en bagatel. Den detaljegrad og research, der er lagt i min oprindelige klage og i disse supplerende oplysninger, er et direkte mål for den skade, Malene Nyhuus uagtsomhed har forvoldt, og den desperation, hendes afvisning har efterladt mig i.
+
+Jeg anmoder indtrængende styrelsen om at anerkende disse handlinger som grov uagtsomhed.
 
 Jeg fremsender hermed supplerende og afgørende dokumentation, som utvetydigt beviser grov uagtsomhed i min behandling hos læge Malene Nyhuus. Dokumentationen består af to bilag.
 
@@ -508,12 +541,9 @@ Bilag 2: Detaljeret visning af medicinordination fra Fælles Medicinkort.
 Dette bilag viser den kritiske information, som klinikken havde adgang til: En aktiv og gyldig ordination af MAO-hæmmeren Marplan med den officielle bemærkning "Tilskudsklausul: Klausulbetingelse opfyldt" – den system-dokumenterede bekræftelse på min behandlingsresistente depression (TRD).
 
 Sammenfatning:
-
 Denne dokumentation beviser, at Malene Nyhuus faktuelt forkerte påstande blev fremsat på trods af, at hendes klinik havde adgang til den korrekte information. Hendes handlinger udgør derfor enten en bevidst tilsidesættelse af kendte fakta eller en så fundamental mangel på intern koordination, at kritiske patientoplysninger ikke når den behandlende læge.
 
 Uanset en eventuel intern brist, fritager dette ikke Malene Nyhuus for hendes personlige, faglige ansvar for selvstændigt at verificere kritiske oplysninger i FMK før en klinisk vurdering. Hendes fejlbehæftede vurdering er derfor en direkte konsekvens af grov uagtsomhed.
-
-Supplerende Oplysninger #3
 
 Vedhæftet er en opkaldslog fra den 27-06-2025.
 
@@ -523,13 +553,13 @@ Min konsultation hos Malene Nyhuus var kl. 11:45. Mod slutningen af konsultation
 
 Hendes direkte svar var, at jeg skulle "spørge min sagsbehandler, hvad jeg skulle gøre nu."
 
-Umiddelbart efter at have forladt konsultationen, kl. 11:58, skrev jeg til min sagsbehandler for at følge lægens instruks. Den vedhæftede opkaldslog viser det indgående opkald fra min sagsbehandler, som reaktion på min henvendelse. Opkaldet fandt sted blot 13 minutter efter min aftale med Malene Nyhuus var startet.
+Umiddelbart efter at have forladt konsultationen, kl. 11:58, skrev jeg til min sagsbehandler for at følge lægens instruks.
+
+Den vedhæftede opkaldslog viser det indgående opkald fra min sagsbehandler, som reaktion på min henvendelse. Opkaldet fandt sted blot 13 minutter efter min aftale med Malene Nyhuus var startet.
 
 Denne uafbrudte kæde af hændelser beviser, at jeg, som patient med en alvorlig, behandlingsresistent diagnose, blev efterladt uden en behandlingsplan, og at mit kliniske spørgsmål i stedet blev henvist til en socialrådgiver.
 
 Dette udgør en fundamental ansvarsfralæggelse og en grov faglig forsømmelse.
-
-Supplerende Oplysninger #4
 
 Vedhæftet er et peer-reviewed, videnskabeligt studie publiceret i tidsskriftet Brain and Behavior (Kern et al., 2023), som kvantificerer selvmordsrisikoen for patienter med behandlingsresistent depression (TRD).
 
@@ -542,6 +572,8 @@ Bevist Eksponentiel Risikoøgning: Studiet beviser, at for en TRD-patient, øges
 Bevist Brud på Faglig Standard: Studiet konkluderer, at den høje risiko "antyder behovet for en omhyggelig vurdering og fastlæggelse af selvmordsrisiko i denne patientpopulation." Malene Nyhuus undladelse af at foretage denne obligatoriske risikovurdering var derfor ikke blot en fejl; det var en direkte tilsidesættelse af den evidensbaserede standard for patientsikkerhed.
 
 At sende en patient i denne dokumenterede højrisikokategori til en socialrådgiver i stedet for at foretage den påkrævede risikovurdering udgør derfor en fundamental tilsidesættelse af patientsikkerheden.
+
+Anklage Slut
 
 Konklusion: En Nation i Moralsk Fallit
 
