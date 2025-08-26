@@ -43,10 +43,10 @@ Anvendte akut-traume-regel på kronisk trauma-erkendelse. Ignorerede at erkendel
 7. Selvmodsigende argumentation
 Brugte MAOI-historik til at afvise henvisning (for svær depression). Afviste samtidig MAOI som bevis på sværhedsgrad. Indtog modsatrettede positioner alt efter formål.
 
-8.Manglende respekt for forudgående information
+8. Manglende respekt for forudgående information
 Ignorerede at klinikken var informeret om patientens krise 4 dage i forvejen. Tilsidesatte hjemmehjælpers faglige vurdering af akut behov.
 
-9.Kynisk misbrug af regelværk
+9. Kynisk misbrug af regelværk
 Brugte henvisningskriterier som forsvar snarere end værktøj. Søgte undskyldninger for forudfattet beslutning.
 
 10. Ansvarsfralæggelse til socialrådgiver
