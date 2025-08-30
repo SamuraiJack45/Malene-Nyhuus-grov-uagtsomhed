@@ -204,13 +204,16 @@ Denne tavshed er ikke en tilfældighed. Det er en tilståelse. Det er en offentl
 
 Jan Lindebjerg Overlæge hos Vejle Sygehus mener ikke at det er groft uagtsomt at en 12 årige pige får rivet sin tand ud ved en fejl.png og .pdf
 
-Den Psykologiske Autopsi – En Analyse af den Nødvendige Kontekst
+Den Psykologiske Autopsi – En Analyse af den Nødvendige Kontekst 
+
+Det er afgørende at understrege, at dette ikke er en klinisk diagnose, som jeg, som patient, selvsagt ikke er kvalificeret til at stille. Det er derimod en adfærdsanalyse, baseret på de uigendrivelige, dokumenterede fakta i denne sag.
 
 De foregående beviser dokumenterer et mønster af grov uagtsomhed, der er så ekstremt, så irrationelt, og så professionelt selvdestruktivt, at det trodser en normal, logisk forklaring. Den følgende analyse er derfor en hypotese, baseret på det observerede mønster af adfærd, fremsat for at skabe en sammenhængende forklaring på de ellers uforståelige handlinger.
 
 En læge, der bevidst ignorerer en specialists plan, opfinder farmakologiske løgne, og undlader en livsvigtig selvmordsrisikovurdering, handler ikke blot uagtsomt. En sådan adfærd kan kun forstås i en dybere, psykologisk kontekst.
 
 Den Nødvendige Hypotese: Et Mønster af Patologisk Narcissisme
+
 
 Lægegerningen er, for en person med narcissistiske træk, det perfekte jagtområde. Den tilbyder en konstant kilde til narcissistisk forsyning: patientens beundring, taknemmelighed, og underkastelse. Lægen er autoriteten; patienten er den, der har brug for hjælp.
 
